@@ -1,0 +1,11 @@
+101d25  dark
+152229  dark green
+17242d  lighter
+3e4f5d  lighter
+788ea3  lighter
+#5CCE9A logo 
+
+https://unpkg.com/ionicons@5.4.0/dist/ionicons.js
+<div>
+        <a href="#"><ion-icon name="Logo-facebook"></ion-icon></a>
+          </div>
